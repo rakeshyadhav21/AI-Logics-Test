@@ -16,3 +16,11 @@ function maxElement(nums){
 }
 
 console.log(maxElement(nums))
+
+
+/*
+
+Time complexity : O(n)
+Space complexity : O(1)
+
+*/
